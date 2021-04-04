@@ -1,5 +1,8 @@
 # Assignment-3
 
+# ValueDomains  
+ValueDomains are in "scr/myStuff"
+
 ValueDomain MyValue  
 ValueDomain MyAttribute  
 ValueDomain MyValueString  
